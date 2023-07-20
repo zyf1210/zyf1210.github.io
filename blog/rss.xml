@@ -4,10 +4,20 @@
         <title>我的网站 Blog</title>
         <link>https://zyf1210.github.io/blog</link>
         <description>我的网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[aaasd]]></title>
+            <link>https://zyf1210.github.io/blog/happy</link>
+            <guid>https://zyf1210.github.io/blog/happy</guid>
+            <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[情况圣箭代弓哈上节课的好难过老客户]]></description>
+            <content:encoded><![CDATA[<p>#奥术大师大所大所大所大所大所大所大所多</p><p>情况圣箭代弓哈上节课的好难过老客户</p>]]></content:encoded>
+            <category>test</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://zyf1210.github.io/blog/welcome</link>
